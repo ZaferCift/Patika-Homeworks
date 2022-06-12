@@ -1,2 +1,2 @@
 # Patika-Homeworks
-patika.dev
+www.patika.dev
